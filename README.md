@@ -10,10 +10,12 @@ Control USB Relay modules with Node JS and React easily and simple!
 
 
 ## Install
-> npm install
-> cd config
-> node generateKeypair.js
-> npm run-script start-prod
+```sh
+npm install
+cd config
+node generateKeypair.js
+npm run-script start-prod
+```
 
 
 ## License
